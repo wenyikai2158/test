@@ -1,0 +1,47 @@
+# Local agent/runtime state
+.agents/
+.codex/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and environment files
+*.log
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build and cache output
+dist/
+build/
+out/
+coverage/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
