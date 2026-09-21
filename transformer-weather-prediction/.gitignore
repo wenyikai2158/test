@@ -1,0 +1,12 @@
+# Downloaded dataset (fetched automatically at runtime, ~13 MB)
+jena_climate_2009_2016.csv
+jena_climate_2009_2016.csv.zip
+
+# Trained model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated figures and tuning results
+*.png
+hyperparameter_tuning_results.json
